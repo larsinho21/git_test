@@ -1,0 +1,2 @@
+This is my first time trying out GIT 
+I think I am doing alright so far
